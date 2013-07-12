@@ -6,7 +6,7 @@ New Features
 
 - Minimal Py3k compatibility.
 
-  - Switch dependency to 'python3-openid' for Py3k.
+  - Switch dependency to ``python3-openid`` for Py3k.
 
 - [bitbucket] Add an extra query to populate the `emails` and `verifiedEmail`
   keys in the profile.
